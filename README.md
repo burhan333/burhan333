@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Burhan Ali
 
-### Passionate about creating beautiful, modern and highly scalable web and mobile applications
+### Passionate about creating beautiful, modern and highly scalable web applications
 
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning MERN Stack
